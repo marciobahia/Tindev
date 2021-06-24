@@ -50,12 +50,12 @@ $ git clone https://github.com/marciobahia/Tindev.git && cd tindev
 
 ```bash
 
-**Install the dependencies**
-$ npm install <package>@<version> 
+    **Install the dependencies**
+    
+    $ npm install <package>@<version> 
 
 
     **Dependencies on Backend**
-
     axios": "^0.19.0
     cors": "^2.8.5
     express": "^4.17.1
@@ -67,9 +67,7 @@ $ npm install <package>@<version>
   
     
   
-     **Dependencies on Frontend**
-
-    
+     **Dependencies on Frontend**   
     axios": "^0.19.0
     react": "^16.8.6
     react-dom": "^16.8.6
@@ -78,8 +76,7 @@ $ npm install <package>@<version>
     socket.io-client": "^2.2.0
     
     
-    **Dependencies on Mobile**
-    
+    **Dependencies on Mobile**   
     @react-native-community/async-storage": "react-native-community/async-storage
     axios": "^0.19.0
     react": "16.8.6
@@ -89,7 +86,7 @@ $ npm install <package>@<version>
     react-navigation": "^3.11.1
     socket.io-client": "^2.2.0
   
-  devDependencies
+    devDependencies
     @babel/core": "^7.5.5
     @babel/runtime": "^7.5.5
     @react-native-community/eslint-config": "^0.0.5
@@ -100,14 +97,14 @@ $ npm install <package>@<version>
     
 
 
-**Run the Backend server**
-$ yarn dev
+    **Run the Backend server**
+    $ yarn dev
 
-**Run the web server**
-$ yarn start
+    **Run the web server**
+    $ yarn start
 
-**Run the mobile server**
-$ yarn start
+    **Run the mobile server**
+    $ yarn start
 ```
 
 
