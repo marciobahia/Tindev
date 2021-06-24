@@ -79,34 +79,23 @@ $ yarn
     
     **Dependencies on Mobile**
     
-    @expo-google-fonts/roboto": "^0.1.0
-    @expo-google-fonts/ubuntu": "^0.1.0
-    @react-native-community/masked-view": "0.1.6
-    @react-navigation/native": "^5.5.0
-    @react-navigation/stack": "^5.4.1
-    axios": "^0.19.2
-    expo": "^37.0.12
-    expo-constants": "~9.0.0
-    expo-font": "~8.1.0
-    expo-location": "~8.1.0
-    expo-mail-composer": "~8.1.0
-    react": "16.9.0
-    react-dom": "16.9.0
-    react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz
-    react-native-gesture-handler": "~1.6.0
-    react-native-maps": "0.26.1
-    react-native-reanimated": "~1.7.0
-    react-native-safe-area-context": "0.7.3
-    react-native-screens": "~2.2.0
-    react-native-svg": "11.0.1
-    react-native-web": "^0.11.7
+    @react-native-community/async-storage": "react-native-community/async-storage
+    axios": "^0.19.0
+    react": "16.8.6
+    react-native": "0.60.4
+    react-native-gesture-handler": "^1.3.0
+    react-native-reanimated": "^1.2.0
+    react-navigation": "^3.11.1
+    socket.io-client": "^2.2.0
   
-  devDependencies:
-    @babel/core": "^7.8.6
-    @types/react": "^16.9.11
-    @types/react-native": "^0.60.22
-    babel-preset-expo": "^8.1.0
-    typescript": "^3.8.3
+  devDependencies
+    @babel/core": "^7.5.5
+    @babel/runtime": "^7.5.5
+    @react-native-community/eslint-config": "^0.0.5
+    babel-jest": "^24.8.0
+    eslint": "^6.1.0
+    jest": "^24.8.0
+    metro-react-native-babel-preset": "^0.55.0
     
 
 
@@ -115,7 +104,6 @@ $ yarn
 $ yarn start
 ```
 
-Open the App Expo on your smartphone, scan the application's QR Code.
 
 ## 📝 License
 
