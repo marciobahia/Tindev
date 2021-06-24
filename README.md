@@ -61,12 +61,12 @@ $ yarn
     mongoose": "^5.6.8
     socket.io": "^2.2.0
     
-    devDependencies"
+    devDependencies
     nodemon": "^2.0.2
   
     
   
-**Dependencies on Frontend**
+     **Dependencies on Frontend**
 
     
     axios": "^0.19.0
