@@ -49,8 +49,9 @@ $ git clone https://github.com/marciobahia/Tindev.git && cd tindev
 **Follow the steps below**
 
 ```bash
-# Install the dependencies
-$ yarn
+
+**Install the dependencies**
+$ npm install <package>@<version> 
 
 
     **Dependencies on Backend**
