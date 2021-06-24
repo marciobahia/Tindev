@@ -107,6 +107,9 @@ $ yarn start
 
 **Run the mobile server**
 $ yarn start
+```
+
+
 
 
 ## 📝 License
