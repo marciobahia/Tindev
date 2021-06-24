@@ -66,7 +66,7 @@ $ yarn
   
     
   
-    **Dependencies on Frontend**
+**Dependencies on Frontend**
 
     
     axios": "^0.19.0
