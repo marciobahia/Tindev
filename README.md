@@ -18,7 +18,7 @@ Ecoleta is an Application inspired by Tinder but focused on Developers.
 ![Let Me Ask preview]
 
 
-<img src="https://github.com/marciobahia/Ecoleta/blob/master/Ecoleta.png" >
+<img src="https://github.com/marciobahia/Tindev/blob/master/Frontend/src/assets/Tindev.jpg" >
 
 
 ## Tecnologies
