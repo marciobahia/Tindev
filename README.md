@@ -67,7 +67,7 @@ $ git clone https://github.com/marciobahia/Tindev.git && cd tindev
   
     
   
-     **Dependencies on Frontend**   
+    **Dependencies on Frontend**   
     axios": "^0.19.0
     react": "^16.8.6
     react-dom": "^16.8.6
