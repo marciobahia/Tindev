@@ -99,7 +99,7 @@ $ yarn
     
 
 
-**Run the Backend server**
+***Run the Backend server***
 $ yarn dev
 
 **Run the web server**
