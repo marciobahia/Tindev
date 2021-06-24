@@ -99,15 +99,15 @@ $ yarn
     
 
 
-# Run the Backend server
+**Run the Backend server**
 $ yarn dev
 
-# Run the web server
+**Run the web server**
 $ yarn start
-```
-# Run the mobile server
+
+**Run the mobile server**
 $ yarn start
-```
+
 
 ## 📝 License
 
