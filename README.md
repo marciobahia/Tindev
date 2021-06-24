@@ -12,7 +12,7 @@
 [![Stars](https://img.shields.io/github/stars/marciobahia/letmeask?color=835AFD&style=flat-square)](https://github.com/marciobahia/letmeask/stargazers)
 
 <h4 align="left">
-Ecoleta is an Application inspired by Tinder but focused on Developers.
+Tindev is an Application inspired by Tinder but focused on Developers.
 </h4>
 
 ![Let Me Ask preview]
