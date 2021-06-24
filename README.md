@@ -28,7 +28,7 @@ This project was developed using cutting edge front-end technologies.
 
 - [React Native](https://reactnative.dev)
 - [ReactJs](https://reactjs.org/)
-- [Expo](https://expo.io)
+- [Mongoose](https://mongoosejs.com)
 - [Axios](https://github.com/axios/axios)
 - [NodeJs](https://nodejs.org/en/download/)
 
@@ -38,12 +38,12 @@ This project was developed using cutting edge front-end technologies.
 
 ### Requirements
 
-- You need to install both [Expo](https://expo.io) and [Yarn](https://yarnpkg.com/) to run this project.
+- You need to install both [Yarn](https://yarnpkg.com/) to run this project.
 
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/marciobahia/aircnc.git && cd aircnc
+$ git clone https://github.com/marciobahia/Tindev.git && cd tindev
 ```
 
 **Follow the steps below**
@@ -53,48 +53,28 @@ $ git clone https://github.com/marciobahia/aircnc.git && cd aircnc
 $ yarn
 
 
-**Dependencies on Backend**
+    **Dependencies on Backend**
 
-    @expo-google-fonts/roboto": "^0.1.0
-    @expo-google-fonts/ubuntu": "^0.1.0
-    cors": "^2.8.5,
-    expo-font": "^8.2.2
+    axios": "^0.19.0
+    cors": "^2.8.5
     express": "^4.17.1
-    knex": "^0.21.1
-    mssql": "^6.2.0
-    multer": "^1.4.2
-    mysql": "^2.18.1
-    mysql2": "^2.1.0
-    pg": "^8.2.1
-    sqlite3": "^4.2.0
+    mongoose": "^5.6.8
+    socket.io": "^2.2.0
     
-    devDependencies:
-    @types/cors": "^2.8.6
-    @types/express": "^4.17.6
-    @types/multer": "^1.4.3
-    ts-node": "^8.10.2
-    ts-node-dev": "^1.0.0-pre.44
-    typescript": "^3.9.3
+    devDependencies"
+    nodemon": "^2.0.2
+  
     
   
-**Dependencies on Frontend**
+    **Dependencies on Frontend**
 
     
-    @testing-library/jest-dom": "^4.2.4
-    @testing-library/react": "^9.3.2
-    @testing-library/user-event": "^7.1.2
-    @types/jest": "^24.0.0
-    @types/node": "^12.0.0
-    axios": "^0.19.2
-    leaflet": "^1.6.0
-    react": "^16.13.1
-    react-dom": "^16.13.1
-    react-dropzone": "^11.0.2
-    react-icons": "^3.10.0
-    react-leaflet": "^2.7.0
-    react-router-dom": "^5.2.0
-    react-scripts": "3.4.1
-    typescript": "~3.7.2
+    axios": "^0.19.0
+    react": "^16.8.6
+    react-dom": "^16.8.6
+    react-router-dom": "^5.0.1
+    react-scripts": "3.0.1
+    socket.io-client": "^2.2.0
     
     
     **Dependencies on Mobile**
