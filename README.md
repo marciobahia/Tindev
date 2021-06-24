@@ -1,5 +1,5 @@
 # Tindev
-Application that aims to connect companies that collect waste there are people who aim to dispose of this waste correctly.
+
 
 <div align="center">
   <img src="https://github.com/marciobahia/Ecoleta/blob/master/logo.svg" width="300" >
@@ -12,7 +12,7 @@ Application that aims to connect companies that collect waste there are people w
 [![Stars](https://img.shields.io/github/stars/marciobahia/letmeask?color=835AFD&style=flat-square)](https://github.com/marciobahia/letmeask/stargazers)
 
 <h4 align="left">
-Ecoleta is an Application that aims to connect companies that collect waste there are people who aim to dispose of this waste correctly.
+Ecoleta is an Application inspired by Tinder but focused on Developers.
 </h4>
 
 ![Let Me Ask preview]
