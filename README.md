@@ -56,17 +56,17 @@ $ git clone https://github.com/marciobahia/Tindev.git && cd tindev
 
 
     **Run the Backend Server**
-    $ cd ecoleta/backend
+    $ cd tindev/backend
     $ yarn dev 
 
 
     **Run the Frotend application **
-    $ cd ecoleta/frontend
+    $ cd tindev/frontend
     $ yarn start
     
 
     **Run the Mobile application**
-    $ cd ecoleta/mobile
+    $ cd tindev/mobile
     $ yarn start
 ```
 
